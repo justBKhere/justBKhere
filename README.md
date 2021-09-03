@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justBKhere
 - 👀 I’m interested in game dev, game design, robotics, automation, rapid prototyping
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning many things.
+- 💞️ I’m looking to collaborate on games.
 - 📫 How to reach me justbkhere@gmail.com
 
 <!---
