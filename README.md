@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justBKhere
 - 👀 I’m interested in game dev, game design, web3, robotics, ai, rapid prototyping
-- 🌱 I’m currently learning many things.
+- 🌱 I’m never stop learning.
 - 💞️ I’m looking to collaborate on games.
 - 📫 How to reach me justbkhere@gmail.com
 
